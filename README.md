@@ -13,7 +13,7 @@ Interested in:
 ## Current Work
 
 * Underwater image reconstruction (physics-informed restoration)
-* AI-driven data aggregation (TinyFish / FundPilot)
+* AI-driven data aggregation (FundPilot)
 * Real-time embedded systems (ESP32, signal processing)
 
 ---
