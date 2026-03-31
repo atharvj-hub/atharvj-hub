@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Atharv Jandial
 
-<!--
-**atharvj-hub/atharvj-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Mathematics & Computing @ Central University of Jammu
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning
+* Computer Vision
+* Systems Engineering
+
+---
+
+## Current Work
+
+* Underwater image reconstruction (physics-informed restoration)
+* AI-driven data aggregation (TinyFish / FundPilot)
+* Real-time embedded systems (ESP32, signal processing)
+
+---
+
+## Focus
+
+Building systems that connect mathematics, algorithms, and real-world deployment.
+
