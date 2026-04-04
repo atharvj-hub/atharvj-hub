@@ -20,7 +20,7 @@ Interested in:
 ## 🛰️ NASA Interaction
 
 <p align="center">
-  <img src="https://nasa-external-ocomm.app.box.com/s/eslp5pfq4dk4jg68hvbblavfu3jjhaxi" width="200"/>
+  <img src="https://github.com/user-attachments/assets/23dd7cd0-6968-4d71-a661-edbf41a852ca" width="200"/>
 </p>
 
 - Virtual guest for Artemis II launch experience (NASA)
@@ -28,4 +28,5 @@ Interested in:
 ## Focus
 
 Building systems that connect mathematics, algorithms, and real-world deployment.
+
 
