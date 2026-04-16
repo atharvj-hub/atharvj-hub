@@ -56,7 +56,7 @@ Interested in robotics, computer vision, cybersecurity, embedded systems, and ae
     </td>
     <td align="center">
       <!-- Replace with your second NASA badge image URL -->
-      <img src="<img width="425" height="275" alt="image" src="https://github.com/user-attachments/assets/fd155647-f044-4870-b59a-5a700a9c769c" width="120"/><br/>
+      <img src="C:\Users\athar\Downloads\Virtual Guest Passport Stamp_Artemis II Splashdown_Final_1080x1080.jpg" width="120"/><br/>
       <sub>Artemis II<br/>Virtual Guest</sub>
     </td>
   </tr>
