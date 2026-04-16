@@ -56,13 +56,8 @@ Interested in robotics, computer vision, cybersecurity, embedded systems, and ae
     </td>
     <td align="center">
       <!-- Replace with your second NASA badge image URL -->
-      <img src="YOUR_SECOND_NASA_BADGE_URL_HERE" width="120"/><br/>
-      <sub>Badge Name Here</sub>
-    </td>
-    <td align="center">
-      <!-- Replace with your third NASA badge image URL -->
-      <img src="YOUR_THIRD_NASA_BADGE_URL_HERE" width="120"/><br/>
-      <sub>Badge Name Here</sub>
+      <img src="<img width="425" height="275" alt="image" src="https://github.com/user-attachments/assets/fd155647-f044-4870-b59a-5a700a9c769c" width="120"/><br/>
+      <sub>Artemis II<br/>Virtual Guest</sub>
     </td>
   </tr>
 </table>
