@@ -1,6 +1,6 @@
 # Atharv Jandial
 
-**B.Tech Mathematics & Computing · Central University of Jammu · 2025–2029**
+**Mathematics & Computing**
 
 Building things at the intersection of algorithms, hardware, and real-world systems.
 Interested in robotics, computer vision, cybersecurity, embedded systems, and aerospace.
