@@ -1,6 +1,6 @@
 # Atharv Jandial
 
-**Mathematics & Computing**
+**Mathematics & Computing, Embedded Systems and Machine Learning**
 
 Building things at the intersection of algorithms, hardware, and real-world systems.
 Interested in robotics, computer vision, cybersecurity, embedded systems, and aerospace.
