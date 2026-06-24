@@ -12,9 +12,7 @@ Interested in robotics, computer vision, cybersecurity, embedded systems, and ae
 | Project | What it does | Stack |
 |---|---|---|
 | [🌊 Underwater ML Pipeline](https://github.com/atharvj-hub) | Physics-informed image restoration for AUV perception | Python · OpenCV · NumPy |
-| [💰 FundPilot](https://github.com/atharvj-hub) | Financial data aggregation + multi-factor fund ranking | Python · Playwright · PostgreSQL |
-| [📡 Autonomous Emergency Network](https://github.com/atharvj-hub) | Offline mesh alert system with crash detection | C++ · ESP32-S3 · ESP-NOW |
-| [🔐 SecureVault](https://github.com/atharvj-hub) | AES-256 file encryption with PBKDF2 key derivation | Python · Cryptography |
+
 
 ---
 
