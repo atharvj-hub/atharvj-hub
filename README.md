@@ -19,7 +19,7 @@ encryption and secure file deletion.
   abnormalities on knee MRI from multimodal imaging data.
 
 Also: a lot of time with current AI tooling, mostly wiring up agent-style setups
-and seeing where they brea; and a summer 2026 stint as a Java software engineer trainee at Enveu.
+and seeing where they break; and a summer 2026 stint as a Java software engineer trainee at Enveu.
 
 Learning most of this by building it. Languages I use: C, Python, Java.
 
