@@ -11,10 +11,10 @@ encryption and secure file deletion.
 
 - **[pramiti](https://github.com/atharvj-hub/pramiti)** — finds a vulnerability,
   gets a local model to propose a fix, then runs deterministic checks to confirm
-  the fix holds before accepting it. For AI Kavach / TCQ 2026.
+  the fix holds before accepting it.
 - **ECDAT(https://github.com/Cryptographic-Discovery-Analysis-Tool/EDCAT)** — scans an enterprise codebase for everywhere cryptography is used,
   pulls the findings into one inventory, and works out what needs to move to
-  post-quantum crypto first and why. Smart India Hackathon 2026 (PS SIH26164).
+  post-quantum crypto first and why.
 - **RSNA Knee Abnormality Detection** — currently in this competition, detecting
   abnormalities on knee MRI from multimodal imaging data.
 
